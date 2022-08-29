@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "~=3.13.0"
+whitenoise = "*"
+gunicorn = "~=20.1.0"
 
 [dev-packages]
 
